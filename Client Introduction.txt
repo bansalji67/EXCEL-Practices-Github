@@ -1,0 +1,7 @@
+Hi, my name is Sumit Bansal, and I recently joined EXL as a Consultant. Before joining this organization, I worked at Sopra Steria as a Data Analyst.
+
+In that role, I was responsible for preparing reports in MS Excel while ensuring accuracy and timely delivery. I also worked extensively on Microsoft Power BI by building and maintaining dashboards and creating interactive and informative reports using DAX to help the management team make better business decisions.
+
+Apart from this, I used Microsoft SQL Server for data handling and VBA Macros to automate repetitive tasks, which helped improve overall process efficiency. I regularly generated daily, weekly, and monthly reports as per business requirements and ensured they were updated and restructured whenever needed.
+
+One of my key achievements was winning the “Highest Process Idea Generator” award within the Utility Team.
