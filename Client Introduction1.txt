@@ -1,0 +1,51 @@
+Hi, my name is Sumit Bansal, and I have experience in procurement analytics, data management, and reporting. I have worked closely with Procurement, Finance, and Operations teams to support business decisions through reporting, dashboard creation, spend analysis, and vendor management.
+
+I have hands-on experience in handling large datasets, preparing dashboards and reports, tracking KPIs, and ensuring data accuracy and timely delivery. I have also worked on PO management, vendor onboarding, compliance monitoring, and process improvement activities.
+
+I am skilled in tools like Microsoft Excel, Microsoft Power BI, Microsoft SQL Server, and VBA Macros, which help me analyse data and automate reporting processes efficiently.
+
+1. Tell us about your experience in procurement analytics and reporting.
+Answer:
+I have over 15 years of experience working in procurement analytics, reporting, and data management. My work has involved analysing supplier spend, preparing KPI dashboards, identifying procurement trends, and supporting category managers with actionable insights. I have worked extensively with large datasets from ERP systems like SAP and created automated reporting solutions using Excel, SQL, Python, and BI tools. My focus has always been on improving data accuracy, reporting efficiency, and decision-making through meaningful analytics.
+
+2. How do you ensure accuracy in procurement reporting?
+Answer:
+
+I follow a structured validation approach that includes data reconciliation, source-to-report validation, duplicate checks, exception analysis, and automated quality controls wherever possible. I also compare current reporting outputs with historical trends to identify anomalies. In my previous projects, I implemented validation checkpoints and automated reconciliation processes which significantly reduced manual reporting errors.
+
+3. How do you analyse supplier spend and generate insights?
+
+I start by segmenting supplier spend based on categories, regions, business units, and vendors. Then I analyse trends such as high-spend suppliers, maverick spending, contract leakage, savings opportunities, and vendor concentration risks. I present insights through dashboards and visualizations that help category managers make informed sourcing and negotiation decisions.
+
+4. Can you explain your experience with third-party/vendor risk management?
+Answer:
+I have supported vendor risk and compliance activities by monitoring vendor data quality, validating onboarding documentation, tracking compliance requirements, and identifying operational risks associated with third-party vendors. I have also worked on reconciliation and control-based projects where identifying inconsistencies and ensuring data integrity were critical to mitigating financial and operational risks.
+
+5. What would you do if you found inconsistencies in procurement reporting?
+Answer:
+First, I would identify the root cause by tracing the issue back to the source data, transformation logic, or reporting layer. I would validate the impacted records, quantify the impact, and coordinate with relevant stakeholders such as procurement operations, finance, or IT teams. Once resolved, I would implement preventive controls or automation to avoid similar issues in the future.
+
+6. How do you handle tight reporting deadlines?
+Answer:
+I prioritize tasks based on business impact and reporting timelines. I also focus heavily on automation and standardization to reduce manual effort. Over the years, I have built efficient reporting processes that allow faster turnaround times while maintaining accuracy. Communication with stakeholders is also important to proactively manage expectations and dependencies.
+
+7. What procurement KPIs have you worked with?
+Answer:
+Some common procurement KPIs I have worked with include:
+Spend under management
+Supplier performance metrics
+PO cycle time
+Savings achieved
+Contract compliance
+Vendor onboarding turnaround time
+Procurement processing accuracy
+Invoice/payment reconciliation metrics
+Compliance and audit-related KPIs
+
+8. How comfortable are you working with large and complex datasets?
+Answer:
+Very comfortable. I have extensive experience handling large datasets from ERP systems, finance repositories, and procurement platforms. I regularly use SQL, Excel, Python, and BI tools to clean, transform, reconcile, and analyse complex procurement and financial data efficiently.
+
+9. Describe a situation where you improved a reporting process.
+Answer:
+In one of my previ…
